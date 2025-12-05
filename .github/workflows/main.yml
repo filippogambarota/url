@@ -25,7 +25,7 @@ jobs:
 
       - name: Run link builder script
         run: |
-          python build_links.py
+          python links.py
           echo "Resulting tree:"
           ls -R
 
