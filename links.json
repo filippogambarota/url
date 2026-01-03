@@ -1,2 +1,6 @@
 [
+	{
+		"from": "test",
+		"to": "https://www.google.com/"
+	}
 ]
